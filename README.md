@@ -1,8 +1,6 @@
 # Raytracer
 A ray tracer that I built to quickly test different optical systems with arbitrary apertures.
-
 When the MainCall script is run, the PSF for a preset lens system is output, along with other relevant values.
-
 Here is a brief example of the outputs, computed for the default lens system at 1-degree field angle.
 
 The system's front aperture and paraxial trace:
