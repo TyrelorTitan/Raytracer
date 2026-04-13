@@ -179,7 +179,7 @@ if __name__ == '__main__':
     numObsPts = 2048
     obsSpacing = 1.5e-4 # mm
     apDiv = 256 # Aperture point divisions used for picking rays.
-    fieldAngle_deg = 0 # Input field angle.
+    fieldAngle_deg = 1 # Input field angle.
     fieldDir = 'y' # Axis forming fieldAngle_deg: 'x', 'y', or 'xy'.
     defocus = 0 # mm
     gridDiv = 256 # Pupil grid divisions used in propagation.
